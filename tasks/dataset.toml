@@ -13,7 +13,7 @@ name = "Human Intelligence"
 
 [[tasks]]
 name = "human-intelligence-ai/finance-signoff-bench-007"
-digest = "sha256:ca22339ad82e39d4336abdbca4999a6b96f782c4a87178417f38cb0f2f1f6ac6"
+digest = "sha256:4bd64dc46724af9d931953e4364c6efd8e42363f1fdf2e0c98c0cfb507da6c5a"
 
 [[tasks]]
 name = "human-intelligence-ai/finance-signoff-bench-029"
