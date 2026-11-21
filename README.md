@@ -138,7 +138,7 @@ python3 scripts/summarize_jobs.py jobs/
 本仓库中的数据采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可证，可以用于研究和评测。商业使用需要另行取得授权。
 
 数据制作方：一面千识（Human Intelligence）
-项目网站：[human-intelligence.cn](https://human-intelligence.cn/)
+项目网站：[human-intelligence.cn/blog/finance-signoff-bench](https://human-intelligence.cn/blog/finance-signoff-bench/)
 
 ## 引用
 
